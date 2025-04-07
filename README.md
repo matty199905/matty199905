@@ -1,12 +1,20 @@
 ## Hola!, mi nombre es Matías Bottcher👋
 
+   Soy desarrollador Front-End certificado en búsqueda de mi primer trabajo. <br/>
+   Enfocado en la creación de interfaces web con <b>HTML, CSS, JS<b/> y <b>REACT<b/>. <br/>
+   Me destaco por mi rápida capacidad de aprendizaje, adaptabilidad y enfoque proactivo para resolver problemas.
+
+## 
+.🌱 Actualmente estudiando <b>Backend<b/> con <b>NodeJs<b/> <br/>
+.🔭 Todos mis proyectos estan disponibles en https://vercel.com/matias-projects-700bd8e8 <br/>
+.📫 Cómo contactarme: matty199905@hotmail.com ---  <b>Wpp:<b/> +54 9 11 3204-6562
 <!--
 **matty199905/matty199905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
