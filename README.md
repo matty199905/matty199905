@@ -8,6 +8,10 @@
 .🌱 Actualmente estudiando <b>Backend<b/> con <b>NodeJs<b/> <br/>
 .🔭 Todos mis proyectos estan disponibles en https://cv-wheat-nu.vercel.app/ <br/>
 .📫 Cómo contactarme: matty199905@hotmail.com ---  <b>Wpp:<b/> +54 9 11 3204-6562
+
+
+## Tech Skills: 
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-plain.svg" alt="Styled Components" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" /> </p>
 <!--
 **matty199905/matty199905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
