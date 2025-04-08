@@ -10,7 +10,7 @@
 .📫 Cómo contactarme: matty199905@hotmail.com ---  <b>Wpp:<b/> +54 9 11 3204-6562
 
 ## Conecta conmigo: 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />](https://www.linkedin.com/in/mati-ab-9641a0263)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />](https://www.linkedin.com/in/matias-bottcher-09b780215/)
 
 
 
