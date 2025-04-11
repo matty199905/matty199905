@@ -7,7 +7,7 @@
 ## 
 .🌱 Actualmente estudiando <b>Backend<b/> con <b>NodeJs<b/> <br/>
 .🔭 Todos mis proyectos estan disponibles en https://cv-wheat-nu.vercel.app/ <br/>
-.📫 Cómo contactarme: matty199905@hotmail.com --- <a href="https://wa.me/5491132046562" target="_blank">Wpp</a>
+.📫 Cómo contactarme: matty199905@hotmail.com --- <a href="https://wa.me/5491132046562" target="_blank">Whatsapp</a>
 
 ## Conecta conmigo: 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />](https://www.linkedin.com/in/matias-bottcher-09b780215/)
