@@ -1,7 +1,7 @@
 ## Hola!, mi nombre es Matías Bottcher👋
 
    Soy desarrollador Front-End certificado en búsqueda de mi primer trabajo. <br/>
-   Enfocado en la creación de interfaces web con <b>HTML, CSS, JS<b/> y <b>REACT<b/>.   <br/>
+   Enfocado en la creación de interfaces web con <b>HTML, CSS, JS, TS<b/> y <b>REACT<b/>.   <br/>
    Me destaco por mi rápida capacidad de aprendizaje, adaptabilidad y enfoque proactivo para resolver problemas.
 
 ## 
